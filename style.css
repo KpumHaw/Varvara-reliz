@@ -1,0 +1,197 @@
+@import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playwrite+ID:wght@100..400&family=Sniglet:wght@400;800&display=swap');
+
+
+
+body{
+    background-color: #FAEAD0;
+    font-family: Balsamiq Sans;
+}
+
+
+ header{
+     font-family: Balsamiq Sans;
+     background-color: #FAEAD0 ;
+     margin: 0px;
+     padding: 5px;
+     
+ }
+ 
+ .pochatok {
+     font-family: Balsamiq Sans;
+     display: flex;
+     justify-content: space-between;
+ }
+ 
+ 
+.pruvit{
+    background-image: url("https://i.pinimg.com/1200x/0c/d7/1e/0cd71ed564d8b67467412231b2dee88f.jpg");
+    margin: 10px 0px 0px 0px;
+    padding: 10px 20px 270px 20px;
+}
+
+h1{
+    font-family: Balsamiq Sans;
+    color: #460101;
+    padding-top: 70px ;
+    margin-left: 10px;
+    font-size: 40px;
+    text-shadow:
+    -1px -1px 0 #FAEAD0,
+     1px -1px 0 #FAEAD0,
+    -1px  1px 0 #FAEAD0,
+     1px  1px 0 #FAEAD0;
+}
+
+h2{
+    font-family: Balsamiq Sans;
+    color: #460101;
+    margin: 0px 0px 0px 10px;
+     text-shadow:
+    -1px -1px 0 #FAEAD0,
+     1px -1px 0 #FAEAD0,
+    -1px  1px 0 #FAEAD0,
+     1px  1px 0 #FAEAD0;
+}
+
+.one {
+        color: #460101 ;
+    font-size: 30px;
+    background-color: #FFB3B3;
+    padding: 5px 10px 5px 10px;
+    margin: 20px 640px 20px 10px;
+    border-radius: 12px;
+    font-family: Balsamiq Sans;
+}
+
+.two{
+    color: #460101 ;
+    font-size: 30px;
+    background-color: #FFB3B3;
+    padding: 5px 10px 5px 10px;
+    margin: 5px 620px 5px 0px;
+    border-radius: 12px;
+
+}
+
+.tree{
+    font-family: Balsamiq Sans;
+        color: #460101 ;
+    font-size: 30px;
+    background-color: #FFB3B3;
+    padding: 5px 10px 5px 10px;
+    margin: 5px 520px 5px 0px;
+    border-radius: 12px;
+}
+
+.menu{
+    background-image: url("https://i.pinimg.com/1200x/c3/0e/32/c30e3289b97368072546e01d9e67c050.jpg");
+    padding: 15px;
+    margin: 15px ;
+    color: #460101 ;
+    
+}
+
+.menu img{
+    width: 300px;
+    height: 380px;
+}
+
+.menus{
+    font-family: Balsamiq Sans;
+    display: flex;
+    justify-content: space-around  ;
+    flex-wrap: wrap;
+}
+
+.popa {
+    background-image: url("https://i.pinimg.com/1200x/c3/0e/32/c30e3289b97368072546e01d9e67c050.jpg");
+    padding: 15px;
+    margin: 20px 0px 20px 0px;
+    font-family: Balsamiq Sans;
+}
+
+.popa p {
+    color: #421312;
+    font-size: 17px ;
+}
+
+.golova p {
+    font-size: 25px;
+}
+
+.menu p{
+    margin: 5px 0px 5px 0px;
+}
+
+.menu h4{
+    margin: 7px 0px 7px 0px;
+    font-size: 18px;
+}
+
+footer{
+    background-color: #FFB3B3;
+    margin: 40px 0px 0px 0px;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.nuz {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.q{
+    margin: 10px;
+    color: #460101 ;
+    padding: 14px;
+    border-radius: 20px;
+    
+}
+
+a{
+      color: #460101 ;
+      background-color: #FFB3B3;
+      font-size: 20px;
+      padding: 8px;
+      border-radius: 13px;
+      border: none;
+      font-family: Balsamiq Sans;
+      text-decoration: none;
+}
+
+a:hover{
+    color:#FFB3B3; 
+      background-color: #460101 ;
+      font-size: 22px;
+}
+
+
+button{
+    color: #460101 ;
+      background-color: #FFB3B3;
+      font-size: 15px;
+      padding: 8px ;
+      border-radius: 13px;
+      border: none;
+      margin: 0px;
+      font-family: Balsamiq Sans;
+}
+
+button:hover{
+    color:#FFB3B3; 
+      background-color: #460101 ;
+      font-size: 17px;
+}
+
+
+
+
+
+
+
+
+
+
+
