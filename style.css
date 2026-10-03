@@ -184,7 +184,27 @@ button:hover{
       background-color: #460101 ;
       font-size: 17px;
 }
+.four{
+   color: #460101 ;
+    font-size: 30px;
+    background-color: #FFB3B3;
+    padding: 5px 10px 5px 10px;
+    margin: 5px 620px 5px 0px;
+    border-radius: 12px; 
+    text-decoration: none;
+}
 
+.wer{
+    color: #460101 ;
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+.tot{
+    color: #460101 ;
+    font-size: 25px;
+    margin-top: 20px;
+}
 
 
 
